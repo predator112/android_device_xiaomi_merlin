@@ -95,3 +95,7 @@ PRODUCT_PACKAGES += \
 # ImsInit hack
 PRODUCT_PACKAGES += \
     ImsInit
+
+# Tethering
+PRODUCT_PACKAGES += \
+    TetheringConfigOverlay
