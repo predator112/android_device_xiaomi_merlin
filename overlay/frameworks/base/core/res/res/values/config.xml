@@ -229,7 +229,7 @@
      <bool name="skip_restoring_network_selection">true</bool>
 
     <!-- Height of the status bar -->
-     <dimen name="status_bar_height_portrait">24.0dip</dimen>
+    <dimen name="status_bar_height_portrait">115.0px</dimen>
 
     <!-- User activity timeout: Maximum screen dim duration as a percentage of screen off timeout.
     
